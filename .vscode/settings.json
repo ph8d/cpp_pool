@@ -1,0 +1,30 @@
+{
+	"files.associations": {
+		"fstream": "cpp",
+		"__config": "cpp",
+		"__nullptr": "cpp",
+		"exception": "cpp",
+		"initializer_list": "cpp",
+		"new": "cpp",
+		"stdexcept": "cpp",
+		"typeinfo": "cpp",
+		"algorithm": "cpp",
+		"__bit_reference": "cpp",
+		"__string": "cpp",
+		"string": "cpp",
+		"string_view": "cpp",
+		"vector": "cpp",
+		"ios": "cpp",
+		"locale": "cpp",
+		"iostream": "cpp",
+		"__split_buffer": "cpp",
+		"bitset": "cpp",
+		"iterator": "cpp",
+		"list": "cpp",
+		"chrono": "cpp",
+		"limits": "cpp",
+		"ratio": "cpp",
+		"stack": "cpp",
+		"__locale": "cpp"
+	}
+}
